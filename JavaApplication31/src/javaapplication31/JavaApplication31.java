@@ -14,7 +14,12 @@ public class JavaApplication31 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+      boolean extraCabina;
+     String tipoFurgon;
     
+   
+    
+ System.out.println("Hola a todos ");
+    
+    }
 }
